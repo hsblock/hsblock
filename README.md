@@ -1,11 +1,11 @@
 ### 👋 Hi
 
-<a href="javascript:void(0);">
+<span>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=hsblock" />
-</a>
-<a href="javascript:void(0);">
+</span>
+<span>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsblock&hide_langs_below=1" />
-</a>
+</span>
 
 <!--
 **hsblock/hsblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
