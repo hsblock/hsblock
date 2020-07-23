@@ -1,6 +1,8 @@
 ### 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hsblock)](https://github.com/anuraghazra/github-readme-stats)
+![hsblock's github stats](https://github-readme-stats.vercel.app/api?username=hsblock)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsblock&hide_langs_below=1)
 
 <!--
 **hsblock/hsblock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
